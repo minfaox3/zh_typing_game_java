@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zh_typing_game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zh_typing_game_jar</output-path>
+    <root id="archive" name="zh_typing_game.jar">
+      <element id="module-output" name="zh_typing_game" />
+    </root>
+  </artifact>
+</component>
